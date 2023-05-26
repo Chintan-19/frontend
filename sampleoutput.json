@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Compiled by Janine Van der Post",
+      "title": "WATCH | Big mods, crazy power? No, Suzuki proves you don't need either for fun on the Knysna Hill",
+      "description": "Suzuki Auto South Africa is racing three Swift Sports up the Simola Hillclimb this year, along with two motorbikes. Their stock entries prove that you don't need insane power or an expensive car to participate in the fun.",
+      "url": "https://www.news24.com/life/motoring/news/watch-big-mods-crazy-power-no-suzuki-proves-you-dont-need-either-for-fun-on-the-knysna-hill-20230506",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1876/f6f8e4a007874e91ba38e5b4fbb4b639.jpg",
+      "publishedAt": "2023-05-06T21:52:37+00:00",
+      "content": "<ul><li>Suzuki Auto participated in the Simola Hillclimb again in 2023 after its debut up the hill as an Original Equipment Manufacturer.</li><li>This time, they entered three Suzuki Swift models.</l… [+4613 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ Knicks Playoff Special ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/431020-knicks-start-playoff-run--hero-ball",
+      "urlToImage": null,
+      "publishedAt": "2023-04-17T21:22:15.1716203Z",
+      "content": "Knicks Start Playoff Run | Hero Ball"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }
+  ]
+}
